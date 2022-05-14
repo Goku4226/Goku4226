@@ -2,7 +2,8 @@
 -  I’m interested in Developing skills to better myself and get a decent job.
 -  I’m currently learning Python, Git/Github, Java, Powershell, SQL, .net and potentially get my CCNA.
 -  You can reach me via email or discord.
--  I have no idea what I'm doing but one step at a time should help.
+-  I have no idea what I'm doing but one step at a time should help!
+I'm just really hoping I also retain all of this information!
 
 <!---
 Goku4226/Goku4226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
