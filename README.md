@@ -4,7 +4,7 @@
 -  You can reach me via email or discord.
 -  I have no idea what I'm doing but one step at a time should help!
 - I'm just really hoping I also retain all of this information!
-- I really hope I can retain all of this!
+- I keep making changes to try to figure this out.
 
 <!---
 Goku4226/Goku4226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
